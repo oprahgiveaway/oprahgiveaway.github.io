@@ -71,7 +71,7 @@ $(document).ready(function() {
     $(".cover_slider").owlCarousel({
         loop:true,
         autoplay:true,
-        smartSpeed:1000,
+        smartSpeed:3000,
         autoplayHoverPause:false,
         dots:true,
         nav:false,
